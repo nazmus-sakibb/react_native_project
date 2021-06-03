@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>The Recipe App is Start</Text>
+      <Text>The Recipe App is Start</Text>
       <Text>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem modi
         aliquam quod repudiandae quia impedit assumenda quibusdam quidem
